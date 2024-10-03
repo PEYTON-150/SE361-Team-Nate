@@ -1,0 +1,6 @@
+﻿INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'Admin', N'Admin                                             ', N'Admin     ')
+INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'DelMan', N'DelMan                                            ', N'DelMan    ')
+INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'ProdMan', N'ProdMan                                           ', N'ProdMan   ')
+INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'QuadAn', N'QuadAn                                            ', N'QuadAn    ')
+INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'RepMam', N'RepMan                                            ', N'RepMan    ')
+INSERT INTO [dbo].[loginData] ([userID], [password], [access]) VALUES (N'Stockiest', N'Stockiest                                         ', N'Stockiest ')

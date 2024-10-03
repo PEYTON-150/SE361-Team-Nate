@@ -1,0 +1,17 @@
+USER INTERACTION STORIES 
+
+- create new user, login
+
+- log in as registered user, view relevant account information, gain access to application tools
+
+- as user, add raw material details and view stock ID and generate report
+
+- as user, update raw material details
+
+- as product manager, input new product and its details 
+
+- as product manager, update product details
+
+- as delivery manager
+
+- as report manager, manage report?

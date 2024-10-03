@@ -1,0 +1,8 @@
+How to connect a database from Github to the local project
+1. Open your project solution
+2. Click on tools
+3. Connect to database
+4. I next had to make a selection for what kind of database it was. Choose a local one
+5. You will then have to specify the location on the database
+6. select the .mdf file
+After that you should be connected

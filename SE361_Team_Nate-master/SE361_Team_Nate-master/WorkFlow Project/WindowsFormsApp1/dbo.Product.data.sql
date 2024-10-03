@@ -1,0 +1,3 @@
+INSERT INTO [dbo].[Product] ([Product], [Wood Needed in lbs], [Nails Needed], [Glue Needed in Gallons], [Glass Needed in 3x5 Pains ], [In Stock], [Currently being made]) VALUES (N'The Gupta', 12, 25, 1.5, 5, 10, 2)
+INSERT INTO [dbo].[Product] ([Product], [Wood Needed in lbs], [Nails Needed], [Glue Needed in Gallons], [Glass Needed in 3x5 Pains ], [In Stock], [Currently being made]) VALUES (N'The Ry Ry', 20, 30, 1, 3, 5, 3)
+INSERT INTO [dbo].[Product] ([Product], [Wood Needed in lbs], [Nails Needed], [Glue Needed in Gallons], [Glass Needed in 3x5 Pains ], [In Stock], [Currently being made]) VALUES (N'The Legendary Linos Special ', 30, 30, 2, 10, 6, 1)
